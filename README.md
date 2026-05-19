@@ -4,6 +4,14 @@ Código do robô da equipe JACTECH para a temporada FRC 2024 (_Crescendo_). O pr
 
 ---
 
+## Imagem do Robô
+
+<img width="1125" height="728" alt="Imagem Robo" src="https://github.com/user-attachments/assets/e3de6cab-5040-4287-a4fe-c8a3801e6781" /
+
+## Imagem do Statibotics
+
+<img width="1402" height="410" alt="image" src="https://github.com/user-attachments/assets/ce8224f7-8b63-4e34-8ad5-ee45651625e4" />
+
 ## Stack Tecnológica
 
 | Item | Versão |
